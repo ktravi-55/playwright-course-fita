@@ -1,0 +1,25 @@
+{
+  "name": "playwright-course-fita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktravi-55/playwright-course-fita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktravi-55/playwright-course-fita/issues"
+  },
+  "homepage": "https://github.com/ktravi-55/playwright-course-fita#readme",
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
